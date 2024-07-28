@@ -19,7 +19,7 @@ SVR(standard vector machine)
 [.trashed-1723997977-flood.csv2.csv](https://github.com/user-attachments/files/16319881/default.trashed-1723997977-flood.csv2.csv)
 
 # Web application 
-**coming soon
+https://floodsprediction.streamlit.app/
 
 
 
