@@ -19,10 +19,11 @@ SVR(standard vector machine)
 [.trashed-1723997977-flood.csv2.csv](https://github.com/user-attachments/files/16319881/default.trashed-1723997977-flood.csv2.csv)
 
 # Web application
-A machine lewarning web application
 https://floodpredictionapp.onrender.com
 
 # Simple Interactive Dashboard
+https://flooddashboard.onrender.com
+
 
 
 
