@@ -22,7 +22,7 @@ SVR(standard vector machine)
 https://floodpredictionapp.onrender.com
 
 # Simple Interactive Dashboard
-https://flooddashboard.onrender.com
+
 
 
 
